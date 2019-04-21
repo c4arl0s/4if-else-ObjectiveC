@@ -54,6 +54,8 @@ int main(int argc, const char * argv[]) {
 
     return 0;
 }
+```
 
-  ```
-  
+# I suspect over time you will embrace the ternary operator as a concise way to do conditional value assigment.
+
+
