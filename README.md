@@ -87,4 +87,9 @@ int main(int argc, const char * argv[]) {
 }
 ```
 
+``` console
+2019-05-05 21:55:14.816827-0600 IfElseStatement[46191:2991491] hola mundo
+Program ended with exit code: 0
+```
+
 
